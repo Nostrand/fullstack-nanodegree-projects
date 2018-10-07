@@ -1,4 +1,2 @@
-fullstack-nanodegree-vm
-=============
-
-Common code for the Relational Databases and Full Stack Fundamentals courses
+# Some Projects of the Full Stack Web Developer Nanodegree
+In this repository I'll add some projects that I've completed through the free supporting courses of the nanodegree.
