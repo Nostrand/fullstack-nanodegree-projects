@@ -4,8 +4,9 @@ This is a project from the free Udacity course [Intro to Relational Databases](h
 
 ## Description
 This is a basic forum web application.
-
-The goal of this project is to work with Python to connect to a relational database and learn how to protect database-backed web apps from common security problems.
+## Goals
+* Work with Python to connect to a relational database.
+* Learn to protect database-backed web apps from common security problems.
 
 
 ## Requirements
