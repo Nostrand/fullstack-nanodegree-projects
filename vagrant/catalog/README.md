@@ -20,4 +20,4 @@ An installation of [Virtual Box](https://www.virtualbox.org/wiki/Downloads) and 
 * Change directory to /vagrant using: `cd /vagrant`
 * Initialize database `python database_setup.py`
 * Populate the database with sample data, running: `python lotsofmenus.py`
-* Then run `http//:localhost:5000/restaurants` on your browser to test the basic forum.
+* Then run `http//:localhost:5000/restaurants` on your browser to test the item calalog web application.
