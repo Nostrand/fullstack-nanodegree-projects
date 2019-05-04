@@ -1,6 +1,6 @@
 # Full Stack Web Developer Nanodegree
 ## Description
-In this repository (and outside) I have some projects that I've completed through the free supporting courses of older versions of the nanodegree.
+In this repository (and elsewhere) I have some projects that I've completed through the free supporting courses of older versions of the nanodegree.
 
 ## Projects
 * [Movie Trailer Website](https://github.com/Nostrand/Fresh_tomatoes)
