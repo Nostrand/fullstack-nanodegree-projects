@@ -3,7 +3,10 @@
 This is a project from the free Udacity course [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197) and part of an old version of the Full Stack Web Developer Nanodegree.
 
 ## Description
+
+![Forum preview](preview.png)
 This is a basic forum web application.
+
 ## Goals
 * Work with Python to connect to a relational database.
 * Learn to protect database-backed web apps from common security problems.
