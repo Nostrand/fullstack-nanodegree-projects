@@ -5,15 +5,16 @@ This is a project from the free Udacity course [Intro to Relational Databases](h
 ## Description
 
 ![Forum preview](preview.png)
+
 This is a basic forum web application.
 
 ## Goals
-* Work with Python to connect to a relational database.
-* Learn to protect database-backed web apps from common security problems.
+* Develop and deploy a Python web application with a relational database on a virtual machine (VM).
+* Learn to protect database-backed web apps from common security problems, like SQL injection.
 
 
 ## Requirements
-An installation of [Virtual Box](https://www.virtualbox.org/wiki/Downloads) and [Vagrant](https://www.vagrantup.com/downloads.html), and [Python](https://www.python.org/downloads/).
+An installation of [Virtual Box](https://www.virtualbox.org/wiki/Downloads), [Vagrant](https://www.vagrantup.com/downloads.html) and [Python](https://www.python.org/downloads/).
 
 ## Usage
 
